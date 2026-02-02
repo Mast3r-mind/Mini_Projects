@@ -1,0 +1,14 @@
+total 64
+-rw-r--r-- 1 kali kali     0 Nov 11 17:19 abc.txt
+-rw-rw-r-- 1 kali kali   128 Oct  8 11:01 Makefile
+-rwxrwxr-x 1 kali kali 16856 Nov 11 17:11 myShell
+-rw-rw-r-- 1 kali kali   881 Oct  8 11:01 pipeCommand.c
+-rw-rw-r-- 1 kali kali  2520 Nov 11 17:11 pipeCommand.o
+-rw-rw-r-- 1 kali kali   540 Nov 11 17:11 redirection.c
+-rw-rw-r-- 1 kali kali  2440 Nov 11 17:11 redirection.o
+-rw-rw-r-- 1 kali kali   727 Oct  8 11:01 shellHeader.h
+-rw-rw-r-- 1 kali kali  2322 Nov 11 17:06 shellMain.c
+-rw-rw-r-- 1 kali kali  3552 Nov 11 17:11 shellMain.o
+-rw-rw-r-- 1 kali kali   375 Oct  8 11:01 sysCommand.c
+-rw-rw-r-- 1 kali kali  1728 Nov 11 17:11 sysCommand.o
+-rw-rw-r-- 1 kali kali  1017 Oct  9 12:03 tags
